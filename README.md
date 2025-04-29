@@ -1,6 +1,6 @@
-# Bash Automation Scripts for DevOps & Cloud Operations
+# Bash Automation Scripts
 
-Welcome to this repository of **Bash automation scripts** designed to help DevOps engineers and cloud professionals streamline common operational tasks. These scripts cover a range of practical scenarios including AWS CLI integration, system monitoring, log parsing, user management, and more.
+These scripts cover a range of practical scenarios including AWS CLI integration, system monitoring, log parsing, user management, and more.
 
 ---
 
