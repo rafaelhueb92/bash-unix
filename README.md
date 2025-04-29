@@ -17,9 +17,8 @@ Example folder structure:
 list-all-s3-buckets/
   ├── exec.sh
   └── README.md
-nginx-monitor/
+for-simple/
   ├── exec.sh
-  └── README.md
 backup-logs/
   ├── exec.sh
   └── README.md
@@ -36,14 +35,14 @@ backup-logs/
 - **backup-logs**
   Archives `.log` files from `/var/log` into timestamped backups and cleans up old backups.
 
-- **nginx-monitor**
+- **restart-nginx**
   Checks if Nginx is running, restarts it if down, and logs the event.
 
 - **user-creation**
   Creates a new Linux user with a randomly generated password.
 
-- **ssh-failures-geoip**
-  Parses SSH failed login attempts from auth logs and geolocates the source IPs.
+- **for-simple**
+  A simple script to study for statement
 
 ---
 
