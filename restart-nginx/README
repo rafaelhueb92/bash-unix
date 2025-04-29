@@ -1,0 +1,18 @@
+## Process Management
+
+### Task:
+
+<p>Write a script to:</p>
+
+<ul>
+  <li>Check if nginx is running.</li>
+  <li>Restart it if not, and log the event.</li>
+</ul>
+
+## For cron execution - e.g. every 5 minutes
+
+```bash
+
+*/5 * * * * exec.sh
+
+```
